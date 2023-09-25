@@ -12,17 +12,11 @@ The primary goal of this project was to create a platform for selling traditiona
 ## Features
 
 - **Adding Products:** Easily add new products to the catalog.
-
 - **Archiving Products:** Archive products that are no longer available for purchase.
-
 - **Deleting Products:** Remove products from the catalog.
-
 - **Adding to Cart:** Users can add products to their shopping cart for later purchase.
-
 - **Updating Products:** Make changes to product details, such as price or description.
-
 - **Sorting Products:** Sort products by various criteria, such as price, category, or popularity.
-
 - **Categories:** Products are organized into categories for easy navigation.
 
 ## Technologies Used
